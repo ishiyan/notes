@@ -1,4 +1,5 @@
-# Notes
-Angular + Matertial Design playground
+# Bonjour
 
-https://ishiyan.github.io/Notes
+Hosting notes on GitHub Page.
+
+https://ishiyan.github.io/notes
