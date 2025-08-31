@@ -1,0 +1,1 @@
+import{ca as a,xa as r}from"./chunk-L2NAOQ22.js";var f=(()=>{let t=class t{constructor(){this.enableChartEditing=r(!1)}};t.\u0275fac=function(i){return new(i||t)},t.\u0275prov=a({token:t,factory:t.\u0275fac,providedIn:"root"});let e=t;return e})();export{f as a};
