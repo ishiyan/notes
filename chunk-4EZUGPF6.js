@@ -1,0 +1,1 @@
+import{_ as e,ua as r}from"./chunk-AUZJCUDY.js";var s=(()=>{class t{constructor(){this.enableChartEditing=r(!1)}static{this.\u0275fac=function(a){return new(a||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{s as a};
